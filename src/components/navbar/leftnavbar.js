@@ -1,4 +1,6 @@
 
+
+
 const Leftnav = () =>{
     return(
         <>
@@ -14,7 +16,7 @@ const Leftnav = () =>{
         <a className="nav-link active" aria-current="page" href="#">Home</a>
         <a className="nav-link active" aria-current="page" href="#">Home</a>
         <a className="nav-link active" aria-current="page" href="#">Home</a>
-        <a className="nav-link active" aria-current="page" href="#">Home</a>
+        
         
       </div>
     </div>
