@@ -7,9 +7,6 @@ const Login = () => {
 
     return (
         <>
-        <div  className='login-wrapper'>
-            <h1> Iconio Technology Private Limited </h1>
-        </div>
         <card>
         <form>
             <div className="mb-3">

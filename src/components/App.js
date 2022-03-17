@@ -1,12 +1,11 @@
-import Login from "./pages/Login";
-
+import NavbarCom from "./pages/components/NavbarCom";
 
 
 function App() {
   return (
     <div className="App">
      
-    <Login />
+    <NavbarCom />
     </div>
   );
 }
