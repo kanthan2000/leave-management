@@ -1,0 +1,25 @@
+
+.left-nav-bar{
+    background-color: #000000db;
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+}
+.left-nav-bar-items{
+    color: white; 
+    font-size: 120%;
+
+}
+.left-nav-bar-item{
+    list-style: none;
+    cursor: pointer;
+    padding: 1.7rem;
+}
+.left-nav-bar-item:hover{
+    background-color:#323131;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}

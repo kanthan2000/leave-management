@@ -1,0 +1,24 @@
+
+.inner-box{
+    display: flex;
+    
+    height: 340px;
+}
+.card{
+    width: 300px;
+    height: 250px;
+    box-shadow: 0px 1px 7px 2px;
+    margin: 5px;
+}
+.card1{
+    background-color: yellow;
+}
+.card2{
+    background-color: red;
+}
+.card3{
+    background-color: orange;
+}
+.card4{
+    background-color:  pink;
+}

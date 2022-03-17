@@ -1,0 +1,10 @@
+.box{
+    border: 2px solid black;
+    box-shadow: -5px 4px 9px 4px;
+    width: 85%;
+    height: 87vh ;
+    position: relative;
+    top: 8%;
+    left: 13%;
+    overflow: hidden;
+}
