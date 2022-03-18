@@ -2,7 +2,7 @@ import Dashboard  from "./admin/dashboard/dashboard";
 import Table from "./admin/dashboard/table/table";
 import Request from './admin/dashboard/Request/Request';
 import Users from './admin/dashboard/Users/Users'
-import Leftnav from "./admin/dashboard/navbar/leftnavbar";
+import Leftnav from "./admin/dashboard/navbar1/leftnavbar";
 import {Route, Routes} from 'react-router-dom'
 
 function App() {

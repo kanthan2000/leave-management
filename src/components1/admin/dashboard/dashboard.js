@@ -1,5 +1,5 @@
 
-import '../dashboard/dashboard.css'
+import './dashboard.css'
 import Box from './box/box'
 const Dashboard = () =>{
     return(
