@@ -25,6 +25,24 @@ import Box from '../box/box'
       <button type="button" class="btn btn-danger">Delete</button>
       </td>
     </tr>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>293393</td>
+      <td>
+      <button type="button" class="btn btn-success">Accept</button>
+      <button type="button" class="btn btn-danger">Delete</button>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>293393</td>
+      <td>
+      <button type="button" class="btn btn-success">Accept</button>
+      <button type="button" class="btn btn-danger">Delete</button>
+      </td>
+    </tr>
     </tbody>
     </table>
 
