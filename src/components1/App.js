@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Leftnav />
       <Routes>
-      <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/dashboard1" element={<Dashboard />} />
       <Route path="/table" element={<Table />} />
       <Route path="/request" element={<Request />} />
       <Route path="/users" element={<Users />} />
